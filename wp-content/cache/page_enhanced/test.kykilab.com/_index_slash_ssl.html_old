@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>Business Process Automation &amp; Content Management | AGORA</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://test.kykilab.com/wp-content/themes/agora/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="https://test.kykilab.com/wp-content/themes/agora/favicon.ico"
+          type="image/x-icon"/>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.14 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Modern Content Service Platform (CSP) for secure document and data management, critical system administration, and flexible integration." />
+	<link rel="canonical" href="https://test.kykilab.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Business Process Automation &amp; Content Management | AGORA" />
+	<meta property="og:description" content="Modern Content Service Platform (CSP) for secure document and data management, critical system administration, and flexible integration." />
+	<meta property="og:url" content="https://test.kykilab.com/" />
+	<meta property="og:site_name" content="AGORA - Automate Business Processes with AGORA" />
+	<meta property="article:modified_time" content="2023-04-03T09:39:21+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://test.kykilab.com/","url":"https://test.kykilab.com/","name":"Business Process Automation & Content Management | AGORA","isPartOf":{"@id":"https://test.kykilab.com/#website"},"about":{"@id":"https://test.kykilab.com/#organization"},"datePublished":"2022-12-17T11:44:09+00:00","dateModified":"2023-04-03T09:39:21+00:00","description":"Modern Content Service Platform (CSP) for secure document and data management, critical system administration, and flexible integration.","breadcrumb":{"@id":"https://test.kykilab.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://test.kykilab.com/"]}]},{"@type":"BreadcrumbList","@id":"https://test.kykilab.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://test.kykilab.com/#website","url":"https://test.kykilab.com/","name":"AGORA - Automate Business Processes with AGORA","description":"Automate Business Processes with AGORA","publisher":{"@id":"https://test.kykilab.com/#organization"},"alternateName":"Automate Business Processes with AGORA","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://test.kykilab.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://test.kykilab.com/#organization","name":"AGORA - Automate Business Processes with AGORA","alternateName":"Automate Business Processes with AGORA","url":"https://test.kykilab.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://test.kykilab.com/#/schema/logo/image/","url":"https://test.kykilab.com/wp-content/uploads/2022/12/header_logo.svg","contentUrl":"https://test.kykilab.com/wp-content/uploads/2022/12/header_logo.svg","width":104,"height":18,"caption":"AGORA - Automate Business Processes with AGORA"},"image":{"@id":"https://test.kykilab.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='wp-block-library-css' href='https://test.kykilab.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://test.kykilab.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://test.kykilab.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='my_main-css' href='https://test.kykilab.com/wp-content/themes/agora/css/style.min.css?ver=1686078870' type='text/css' media='all' />
+<script type='text/javascript' src='https://test.kykilab.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://test.kykilab.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://test.kykilab.com/wp-json/" /><link rel="alternate" type="application/json" href="https://test.kykilab.com/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://test.kykilab.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://test.kykilab.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://test.kykilab.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://test.kykilab.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftest.kykilab.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://test.kykilab.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftest.kykilab.com%2F&#038;format=xml" />
+</head>
+
+<body>
+    <header class="header">
+        <div class="header__wrapper">
+                                <div class="header__logo">
+                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/header_logo.svg" alt=""/>
+                    </div>
+                        <nav class="header__nav">
+                <ul class="header__list">
+                    <li class="header__list-item">
+                        <a href="#processes" class="header__list-link scroll-link">Processes</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#capabilities" class="header__list-link scroll-link">Capabilities</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#management" class="header__list-link scroll-link">Management</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#faq" class="header__list-link scroll-link">FAQ</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#benefits" class="header__list-link scroll-link">Benefits</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#solutions" class="header__list-link scroll-link">Solutions</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#technologies" class="header__list-link scroll-link">Technologies</a>
+                    </li>
+                    <li class="header__list-item">
+                        <a href="#testimonials" class="header__list-link scroll-link">Testimonials</a>
+                    </li>
+
+                </ul>
+            </nav>
+                                <a class="btn btn--primary" href="https://calendly.com/pavlo-nevylko/30min" target="_blank">
+                        <span>Talk to Expert</span>
+                    </a>
+                        <div class="header__burger">
+                <span class="header__burger-item"></span>
+            </div>
+            <nav class="header__burger-menu">
+                <ul class="header__burger-list">
+                    <li class="header__burger-list-item">
+                        <a href="#processes" class="header__burger-list-link scroll-link">Processes</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#capabilities" class="header__burger-list-link scroll-link">Capabilities</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#management" class="header__burger-list-link scroll-link">Management</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#faq" class="header__burger-list-link scroll-link">FAQ</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#benefits" class="header__burger-list-link scroll-link">Benefits</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#solutions" class="header__burger-list-link scroll-link">Solutions</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#technologies" class="header__burger-list-link scroll-link">Technologies</a>
+                    </li>
+                    <li class="header__burger-list-item">
+                        <a href="#testimonials" class="header__burger-list-link scroll-link">Testimonials</a>
+                    </li>
+                </ul>
+                                        <a class="btn btn--primary" href="https://calendly.com/pavlo-nevylko/30min" target="_blank">
+                            <span>Talk to Expert</span>
+                        </a>
+                            </nav>
+        </div>
+    </header>    <main>
+        <section id="hero" class="hero" style=" background: #052E54 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/hero.jpg') center center no-repeat">
+            <div class="hero__wrapper">
+                <div class="hero__content">
+                                            <h1 class="hero__title">Boost productivity with top-notch CSP</h1>
+                                                                <p class="hero__description">Secure content management, multitool
+integrations, and business process automation.</p>
+                                                                    <a class="btn btn--secondary" href="https://calendly.com/pavlo-nevylko/30min" target="_self">
+                                <span>Talk to Expert</span>
+                            </a>
+                                    </div>
+                                        <div class="hero__img-wrapper">
+                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/abstract-hero-element.png" alt="" class="hero__img"/>
+                        </div>
+                                                        <a class="btn btn--mobile btn--secondary" href="https://calendly.com/pavlo-nevylko/30min" target="_self">
+                            <span>Talk to Expert</span>
+                        </a>
+                            </div>
+        </section>
+        <section class="processes" id="processes" style="background: url('https://test.kykilab.com/wp-content/themes/agora/images/bg/processes.jpg') center center no-repeat">
+            <div class="processes__wrapper">
+                                    <h6 class="section__subtitle section__subtitle--gradient">Processes</h6>
+                                                    <h2 class="section__title">Automate Business Processes with AGORA</h2>
+                                                    <p class="section__description">Trying to be flexible and adapt to constant changes in the business environment, enterprises can no longer stay apart from renovating their approach to information management via content platforms.</p>
+                                <div class="cards__wrapper">
+                                            <div class="card card--icon">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Trophy.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--gradient">Modern CSP solution</h3>
+                                                            </div>
+                                                            <p class="card__description">Revolutionizing ECM, content service platforms embrace new ways of working with content, such as process automation, complex integration with other tools, and business application interoperability.</p>
+                                                    </div>
+                                            <div class="card card--icon">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Bar-chart1.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--gradient">Active system interactions</h3>
+                                                            </div>
+                                                            <p class="card__description">Today, your organization needs to focus not so much on the storage of content across the system but on the active interactions your customers and employees have with it. The primary goal is to deviate from paper-based work, increasing productivity and enabling you to boost efficiency within your business and beyond.</p>
+                                                    </div>
+                                            <div class="card card--icon">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Hammer-and-wrench1.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--gradient">Extensive set of features</h3>
+                                                            </div>
+                                                            <p class="card__description">AGORA brings together all the above-mentioned demands, providing a fully-featured set of solutions and tools to support digital business and secure content management.</p>
+                                                    </div>
+                                    </div>
+            </div>
+        </section>
+        <section class="capabilities" id="capabilities" style="background: #095173 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/capabilities.jpg') center center no-repeat">
+            <div class="capabilities__wrapper">
+                                    <h6 class="section__subtitle">Capabilities</h6>
+                                                    <h2 class="section__title section__title--white ">AGORA Capabilities: Tools and Services</h2>
+                                <div class="capabilities__swiper swiper">
+                    <div class="cards__wrapper cards__wrapper--mix capabilities__swiper-wrapper swiper-wrapper">
+                                                        <div class="swiper-slide capabilities__swiper-slide card card--image first" style="background: #294E5B url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_1.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">Flexible framework</h3>
+                                    <p class="card__description card__description--white">Allows to significantly reduce the cost of implementing and owning the platform.</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image second" style="background: #5B3D9D url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_2.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">Analytical report builder tool</h3>
+                                    <p class="card__description card__description--white">The tool for visualizing various reports in a tabular, graphical, and cartographic form.</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image third" style="background: #226B79 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_3.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">Geospatial CMS</h3>
+                                    <p class="card__description card__description--white">Geospatial content management system allows to collect, process, and distribute spatial data (maps and layers.)</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image card--50 fourth" style="background:#2E2F7C url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_4.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">Custom CMS</h3>
+                                    <p class="card__description card__description--white">Custom CMS allows users with different technical backgrounds to work with site content and contains powerful tools for site developers.</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image card--50 five" style="background: #094163 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_5.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">Centralized authorization service</h3>
+                                    <p class="card__description card__description--white">It acts as a single service for managing platform users. Allows to interact with various external authorization and authentication services.</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image six" style="background: #783B7F url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_6.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">Survey builder tool</h3>
+                                    <p class="card__description card__description--white">Multifunctional tool for collecting, storing, and analyzing data or opinions of respondents.</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image  seven" style="background: #085855 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_7.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">E-Form builder tool</h3>
+                                    <p class="card__description card__description--white">The tool for creating and managing electronic forms that can be used in various modules of the platform.</p>
+                                </div>
+                                                                                <div class="swiper-slide capabilities__swiper-slide card card--image eight" style="background: #553889 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/card_gradient_8.jpg') center center no-repeat">
+                                    <h3 class="card__title card__title--white">AI tool</h3>
+                                    <p class="card__description card__description--white">Allows to automate the processes of identification and processing of documents and other content.</p>
+                                </div>
+                                            </div>
+                    <div class="capabilities__swiper-controls">
+                        <div class="capabilities__swiper-button-prev swiper-button-prev"></div>
+                        <div class="swiper-pagination capabilities__swiper-pagination"></div>
+                        <div class="capabilities__swiper-button-next swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="management" id="management">
+            <div class="management__wrapper" style="background: url('https://test.kykilab.com/wp-content/themes/agora/images/bg/management_top.jpg') center center no-repeat">
+                                    <h6 class="section__subtitle section__subtitle--gradient">Management</h6>
+                                                    <h2 class="section__title">Smart Data Management</h2>
+                                                    <p class="section__description">Focusing on specific solutions and their convenience for the content-driven processes of your organization, AGORA provides the following features for enterprises:</p>
+                                <div class="cards__wrapper first cards__wrapper--100 management__cards-wrapper">
+                                            <div class="card card--100">
+                            <div class="card__wrapper">
+                                <div class="card__content">
+                                                                            <h3 class="card__title card__title--gradient">Enterprise Content Management</h3>
+                                                                                                                <p class="card__description">It is a set of key services and solutions for storing, managing, and controlling information with the appropriate context for taking meaningful action. It contains document and records management, automation tasks, integration, and more.</p>
+                                                                    </div>
+                                                                        <div class="card__image-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/managment_img_right.jpg" alt="" class="card__image"/>
+                                        </div>
+                                                            </div>
+                        </div>
+                                            <div class="card card--100">
+                            <div class="card__wrapper">
+                                <div class="card__content">
+                                                                            <h3 class="card__title card__title--gradient">Asset Management</h3>
+                                                                                                                <p class="card__description">The solution which allows to have a single database of tangible and intangible assets of enterprises (licenses, hardware/software registries, etc.) It is aimed at improving the efficiency of separate departments or the business as a whole.</p>
+                                                                    </div>
+                                                                        <div class="card__image-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/managment_img_left.jpg" alt="" class="card__image"/>
+                                        </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+            <div class="management__inner" style="background:  #26256F url('https://test.kykilab.com/wp-content/themes/agora/images/bg/managment2.jpg') center center no-repeat">
+                                    <h2 class="section__title section__title--white">Document and Records Management</h2>
+                                                    <p class="section__description section__description--white">Comprehensive document and records management tools allow you to properly centralize and protect files while providing the convenience of collaborative workgroups and quick retrieval of what you need.</p>
+                                <div class="cards__wrapper">
+                                            <div class="card card--transparent">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Boy-light.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--white">Job portal</h3>
+                                                            </div>
+                                                            <p class="card__description card__description--white">The crucial feature of the job portal is candidate-employer matching by an AI-enhanced algorithm. The AI model is continuously training on successful applicants' datasets and ensures the employers' security.</p>
+                                                    </div>
+                                            <div class="card card--transparent">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Сard-index-dividers-1.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--white">Project task management</h3>
+                                                            </div>
+                                                            <p class="card__description card__description--white">Non-determined process of project or task management, which involves the collaboration of different groups of people or user roles inside the organization.</p>
+                                                    </div>
+                                            <div class="card card--transparent">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Сomputer-disk-1.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--white">Test results register</h3>
+                                                            </div>
+                                                            <p class="card__description card__description--white">The solution automates the collection, storage, and processing of observation, measurement, and testing data with the possibility of data logging automatically and manually.</p>
+                                                    </div>
+                                            <div class="card card--transparent">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Сityscape-1.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--white">Real estate register</h3>
+                                                            </div>
+                                                            <p class="card__description card__description--white">A unified register of real estate objects containing data from various sources of information and object search data. It is a link between the Sellers / Landlords and Buyers / Tenants. The AI-based recommendations engine enhances the real estate register, providing insights into the most matching opportunities for all market parties.</p>
+                                                    </div>
+                                            <div class="card card--transparent">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Сlipboard-1.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--white"> Permit documentation register</h3>
+                                                            </div>
+                                                            <p class="card__description card__description--white">The solution provides automation of the full cycle of issuing permits, from receiving applications for issuance to registering the issuance of such documents. Allows you to interact with public portals for interaction with Applicants.</p>
+                                                    </div>
+                                            <div class="card card--transparent">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Open-book.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                                                                    <h3 class="card__title card__title--white">e-Library</h3>
+                                                            </div>
+                                                            <p class="card__description card__description--white">The solution aimes at the formation of a single information space for employees of organizations or members of working groups with an easily customizable catalog, the ability to upload various files (MS Office, media, cartographic maps and layers, etc.), and connect materials from external resources.</p>
+                                                    </div>
+                                    </div>
+            </div>
+            <div class="management__wrapper" style="background: url('https://test.kykilab.com/wp-content/themes/agora/images/bg/management_bottom.jpg') center center no-repeat">
+                <div class="cards__wrapper second cards__wrapper--100 management__cards-wrapper">
+                                            <div class="card card--100">
+                            <div class="card__wrapper">
+                                <div class="card__content">
+                                                                            <h3 class="card__title card__title--gradient">Human Resources</h3>
+                                                                                                                <p class="card__description">The human resources solution automates all aspects of the hiring and onboarding process. It provides access to all employee information from a single application.</p>
+                                                                    </div>
+                                                                        <div class="card__image-wrapper card__image-wrapper--big">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/management_img_3.jpg" alt="" class="card__image"/>
+                                        </div>
+                                                            </div>
+                        </div>
+                                            <div class="card card--100">
+                            <div class="card__wrapper">
+                                <div class="card__content">
+                                                                            <h3 class="card__title card__title--gradient">Case Management</h3>
+                                                                                                                <p class="card__description">The case management solution organizes and coordinates a network of formal and informal activities, services, and support aimed at optimizing the well-being of the individuals and families served.</p>
+                                                                    </div>
+                                                                        <div class="card__image-wrapper ">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/management_img_4.jpg" alt="" class="card__image"/>
+                                        </div>
+                                                            </div>
+                        </div>
+                                            <div class="card card--100">
+                            <div class="card__wrapper">
+                                <div class="card__content">
+                                                                            <h3 class="card__title card__title--gradient">Contract Management</h3>
+                                                                                                                <p class="card__description">Automation and monitoring of work with contracts allow you to optimize their entire life cycle, from internal contract requests to the final signing and archiving.</p>
+                                                                    </div>
+                                                                        <div class="card__image-wrapper card__image-wrapper--big">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/management_img_5.jpg" alt="" class="card__image"/>
+                                        </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+        <section class="faq" id="faq" style="background: #052E54 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/faq.jpg') center center no-repeat">
+            <div class="faq__wrapper">
+                                    <h6 class="section__subtitle">FAQ</h6>
+                                                    <h2 class="section__title section__title--white">Frequently Asked Questions</h2>
+                                                    <p class="section__description section__description--white">Here are some answers to the most popular topics to get you started. Please scroll down to get the white paper documents if you can’t find what you are looking for.</p>
+                
+                <div class="faq__accordion accordion">
+                                            <div class="faq__accordion-item accordion-item">
+                            <div class="accordion-item-header faq__accordion-item-header active">
+                                <span class="faq__accordion-item-header-text">What is AGORA?</span>
+                                <span class="faq__accordion-item-header-ico"></span>
+                            </div>
+                            <div class="faq__accordion-item-body accordion-item-body" style="max-height: 150px;">
+                                <div class="accordion-item-body-content">AGORA is a provider of Content Service Platform (CSP) solutions. With its cloud-native software, AGORA enables organizations to build smart content applications that enhance customer experiences, improve decision-making, and accelerate products to the market. A CSP system connects every information source and enables the proper management of large amounts of all data types quickly in a customizable and interconnected manner.</div>
+                            </div>
+                        </div>
+                                            <div class="faq__accordion-item accordion-item">
+                            <div class="accordion-item-header faq__accordion-item-header ">
+                                <span class="faq__accordion-item-header-text">What are the benefits of AGORA CSP?</span>
+                                <span class="faq__accordion-item-header-ico"></span>
+                            </div>
+                            <div class="faq__accordion-item-body accordion-item-body" style="max-height: 0px;">
+                                <div class="accordion-item-body-content">It promotes business scalability by supporting multiple and external repositories, not just one main data storage. In addition, a CSP goes beyond simply working with data. It uses a common API for all clients to track customer relationships, support impromptu collaboration, sort out product information, and facilitate e‑commerce transactions.</div>
+                            </div>
+                        </div>
+                                            <div class="faq__accordion-item accordion-item">
+                            <div class="accordion-item-header faq__accordion-item-header ">
+                                <span class="faq__accordion-item-header-text">Why use a CSP?</span>
+                                <span class="faq__accordion-item-header-ico"></span>
+                            </div>
+                            <div class="faq__accordion-item-body accordion-item-body" style="max-height: 0px;">
+                                <div class="accordion-item-body-content">It is the next step in Enterprise Content Management (ECM), allowing users to save time and resources by efficiently collaborating with information, documents, spreadsheets, contracts, records, scanned images, and videos. The main advantage of a CSP over an ECM is that it is customizable, while users can store, view, edit, and sync any content.</div>
+                            </div>
+                        </div>
+                                            <div class="faq__accordion-item accordion-item">
+                            <div class="accordion-item-header faq__accordion-item-header ">
+                                <span class="faq__accordion-item-header-text">Who is a CSP best suited for?</span>
+                                <span class="faq__accordion-item-header-ico"></span>
+                            </div>
+                            <div class="faq__accordion-item-body accordion-item-body" style="max-height: 0px;">
+                                <div class="accordion-item-body-content">Today, an ECM is considered a legacy technology that is not suited for modern enterprises. On the other hand, a CSP is a more up-to-date innovative solution that empowers companies to harness digital transformation in order to achieve greater business profits.</div>
+                            </div>
+                        </div>
+                                            <div class="faq__accordion-item accordion-item">
+                            <div class="accordion-item-header faq__accordion-item-header ">
+                                <span class="faq__accordion-item-header-text">How difficult is it to implement a CSP system?</span>
+                                <span class="faq__accordion-item-header-ico"></span>
+                            </div>
+                            <div class="faq__accordion-item-body accordion-item-body" style="max-height: 0px;">
+                                <div class="accordion-item-body-content">Implementing a CSP into an organization is a complex step-by-step process. Usually, it is planned and implemented based on the company’s existing infrastructure, compliance, as well as the technical and administrative environment. With a competent CSP provider like AGORA, implementation will be performed smoothly.</div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+            <div class="subscribe-form__wrapper">
+                                    <h3 class="section__title section__title--white">Learn more about AGORA</h3>
+                                <div class="subscribe-form__inner">
+                                            <p class="subscribe-form__caption">Get FREE PDF about our benefits</p>
+                      
+                    <div class="wpcf7 no-js" id="wpcf7-f193-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f193-o1" method="post" class="wpcf7-form init subscribe-form__form" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="193" />
+<input type="hidden" name="_wpcf7_version" value="5.7.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f193-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<label class="subscribe-form__label">
+<span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email subscribe-form__input" aria-required="true" aria-invalid="false" placeholder="Your email address" value="" type="email" name="email" /></span>
+<input class="wpcf7-form-control has-spinner wpcf7-submit btn btn--primary" type="submit" value="Submit" />
+</label><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="234"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                </div>
+            </div>
+        </section>
+        <section class="benefits" id="benefits" style="background: url('https://test.kykilab.com/wp-content/themes/agora/images/bg/benefits.jpg') center top no-repeat">
+            <div class="benefits__wrapper">
+                                    <h6 class="section__subtitle section__subtitle--gradient">Benefits</h6>
+                                                    <h2 class="section__title">AGORA Benefits</h2>
+                                                    <p class="section__description">The main advantages of using AGORA for business are the following:</p>
+                                <div class="cards__wrapper">
+                                            <div class="card">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--centered">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Locked-with-key.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                            </div>
+                                                            <div class="card__description"><p><strong>Extended security</strong> via a private content management system.</p>
+</div>
+                                                    </div>
+                                            <div class="card">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--centered">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/High-speed-train.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                            </div>
+                                                            <div class="card__description"><p><strong>Speed-up development,</strong> compared to creating a system “from scratch.”</p>
+</div>
+                                                    </div>
+                                            <div class="card">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--centered">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Thumbs-up.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                            </div>
+                                                            <div class="card__description"><p><strong>Single CMS for multiple websites</strong> with a role model of administration.</p>
+</div>
+                                                    </div>
+                                            <div class="card">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--centered">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Desktop-computer.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                            </div>
+                                                            <div class="card__description"><p>Possibility of <strong>implementing and administering</strong> the public (web portal) and service part (data platform) of the solution <strong>as one application.</strong></p>
+</div>
+                                                    </div>
+                                            <div class="card">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--centered">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Gear.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                            </div>
+                                                            <div class="card__description"><p>CMS on Java Script (full-stack) with the possibility to handle and<strong> solve a majority of the tasks</strong>. The coding language is powered by its inimitable nature, extensive libraries, and popular frameworks.</p>
+</div>
+                                                    </div>
+                                            <div class="card">
+                            <div class="card__title-wrapper">
+                                                                        <div class="card__icon-wrapper card__icon-wrapper--centered">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Money-with-wings.svg" alt="" class="card__icon"/>
+                                        </div>
+                                                            </div>
+                                                            <div class="card__description"><p><strong>Lower price</strong> and cost of ownership, compared to implementing “out-of-the-box” brand solutions.</p>
+</div>
+                                                    </div>
+                                    </div>
+            </div>
+        </section>
+        <section class="solutions" id="solutions" style="background: #2D3688 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/solutions.jpg') center center no-repeat">
+            <div class="solutions__wrapper">
+                                    <h6 class="section__subtitle">Solutions</h6>
+                                                    <h2 class="section__title section__title--white">Solutions by Industry</h2>
+                                                    <p class="section__description section__description--white">AGORA presents a combination of innovative business process automation solutions with groundbreaking security for a variety of industries. Our feature-rich, customizable platform provides businesses with a powerful tool for promoting organizational efficiency and productivity, regardless of industry. Below, you can find out in what industries this solution is popular, and how exactly it helps solve business problems.</p>
+                                <div class="solutions__inner">
+                    <div class="solutions__cards-wrapper">
+                                                    <div class="solutions__card-wrapper ">
+                                <div class="card card--transparent">
+                                    <div class="card__title-wrapper">
+                                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                                    <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Loudspeaker.svg" alt="" class="card__icon"/>
+                                                </div>
+                                                                                <h3 class="card__title card__title--white">State and Local Government</h3>
+                                    </div>
+                                    <div class="card__description card__description--white"><p>The solution for state and local governments is used as a platform to improve services to citizens, reduce manual tasks, and provide basic business functions.</p>
+<p>AGORA provides the management of state public portals that publish information and materials for citizens and communicate with them to address daily and social issues. The platform provides the necessary security requirements for the management of public registers by employees of all levels of government.</p>
+</div>
+                                </div>
+                                                                        <div class="solutions__img-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/solutions_1.jpg" alt="" class="solutions__img"/>
+                                        </div>
+                                                            </div>
+                                                    <div class="solutions__card-wrapper ">
+                                <div class="card card--transparent">
+                                    <div class="card__title-wrapper">
+                                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                                    <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Leaf-fluttering-in-wind.svg" alt="" class="card__icon"/>
+                                                </div>
+                                                                                <h3 class="card__title card__title--white">Natural Hazards Monitoring</h3>
+                                    </div>
+                                    <div class="card__description card__description--white"><p>The solution is a unified platform for disaster risk management, providing collaboration to all participants of this process, as well as early warning and public awareness.</p>
+</div>
+                                </div>
+                                                                        <div class="solutions__img-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/solutions_2.jpg" alt="" class="solutions__img"/>
+                                        </div>
+                                                            </div>
+                                                    <div class="solutions__card-wrapper ">
+                                <div class="card card--transparent">
+                                    <div class="card__title-wrapper">
+                                                                                        <div class="card__icon-wrapper card__icon-wrapper--transparent">
+                                                    <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Mending-heart.svg" alt="" class="card__icon"/>
+                                                </div>
+                                                                                <h3 class="card__title card__title--white">Healthcare</h3>
+                                    </div>
+                                    <div class="card__description card__description--white"><p>The vaccine and drug logistics management solution is based on RIM HL7 and automates planning, distribution, and compliance with all procurement and warehousing management procedures.</p>
+</div>
+                                </div>
+                                                                        <div class="solutions__img-wrapper">
+                                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/solutions_3.jpg" alt="" class="solutions__img"/>
+                                        </div>
+                                                            </div>
+                                            </div>
+                </div>
+            </div>
+        </section>
+                    <section class="technologies" id="technologies" style="background: url('https://test.kykilab.com/wp-content/themes/agora/images/bg/technologies.jpg') center center no-repeat">
+                <div class="technologies__wrapper">
+                                            <h6 class="section__subtitle section__subtitle--gradient">Technologies</h6>
+                                                                <h2 class="section__title">Relevant Technology Stack</h2>
+                                        <div class="swiper technologies-swiper">
+                        <div class="swiper-wrapper technologies-swiper-wrapper">
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-1.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-3.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-2.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-5.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-4.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-7.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-6.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-8.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-10.jpg" alt="">
+                                </div>
+                                                            <div class="swiper-slide technologies-swiper__swiper-slide">
+                                    <img src="https://test.kykilab.com/wp-content/uploads/2022/12/tech-9.jpg" alt="">
+                                </div>
+                                                    </div>
+                        <div class="technologies-swiper-controls">
+                            <div class="technologies-swiper-button-prev swiper-button-prev"></div>
+                            <div class="swiper-pagination technologies-swiper-pagination"></div>
+                            <div class="technologies-swiper-button-next swiper-button-next"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+                <section class="testimonials" id="testimonials" style="background: #3A6498 url('https://test.kykilab.com/wp-content/themes/agora/images/bg/testimonials.jpg') center center no-repeat">
+            <div class="testimonials__wrapper">
+                                    <h6 class="section__subtitle">Testimonials</h6>
+                                                    <h2 class="section__title section__title--white">What People Say About AGORA</h2>
+                                <div class="swiper testimonials__swiper">
+
+                    <div class="swiper-wrapper testimonials__swiper-wrapper">
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“Agora unites the best of both worlds: custom software development outsourcing and a SaaS approach combining it with extensive functionality.”</p>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“Using Agora, businesses and public organizations go paperless, making communication and collaboration faster.”</p>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“Automating internal business processes within our organization is such a breeze with AGORA. The way we could work with documents is simply next-level. Saves lots of time in the process.”</p>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“AGORA empowered our employees to become more agile, efficient, and result-oriented.”</p>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“For our company, AGORA became the driving force of digitalization. It provides us with valuable business insights, workflow capabilities, and data protection.”</p>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“AGORA enhances the sustainability of our business operations. Meanwhile, it is constantly helping to reduce risks within our industry.”</p>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide testimonials__swiper-slide">
+                                <div class="testimonials__swiper-slide-info">
+                                                                        <div class="testimonials__swiper-slide-info-content">
+                                                                                                                    </div>
+                                </div>
+                                <div class="testimonials__swiper-slide-content">
+                                                                        <p class="testimonials__swiper-slide-text">“Made our business more competitive by improving experiences and automation at a lower compliance cost. AGORA enabled us to improve legacy workflows, largely reducing their complexity. Information safety is another perk of this Content Service Platform.”</p>
+                                                                    </div>
+                            </div>
+                                            </div>
+                    <div class="testimonials__swiper-controls">
+                        <div class="testimonials__swiper-button-prev swiper-button-prev"></div>
+                        <div class="swiper-pagination testimonials__swiper-pagination"></div>
+                        <div class="testimonials__swiper-button-next swiper-button-next"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    <footer class="footer">
+        <section class="contact-us" style="background: #72B8BA url('https://test.kykilab.com/wp-content/themes/agora/images/bg/contact-us.jpg') center center no-repeat">
+            <div class="contact-us__wrapper">
+                <div class="contact-us__info">
+                                            <h3 class="contact-us__title">Contact Us</h3>
+                                                                <p class="contact-us__description">You can contact us by sending a message via this form.</p>
+                                        <a href="#" data-popup-contact class="btn btn--secondary mobile"><span>Open form</span></a>
+                </div>
+                
+
+                <div class="contact-us__form-wrapper">
+                    <div class="contact-us__header">
+                                                    <div class="contact-us__form-title-wrapper">
+                                <h3 class="contact-us__form-title">Contact Us</h3>
+                            </div>
+                                                                            <p class="contact-us__caption">You can contact us by sending a message via this pop-up form.</p>
+                                            </div>
+                    <div class="wpcf7 no-js" id="wpcf7-f6-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f6-o2" method="post" class="wpcf7-form init contact-us__form" aria-label="Contact form" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="6" />
+<input type="hidden" name="_wpcf7_version" value="5.7.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="contact-us__form-inner">
+<label for="first-name" class="label">
+<span class="label__text label__text--required">First name</span>
+<span class="wpcf7-form-control-wrap" data-name="fname"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input" id="first-name" aria-required="true" aria-invalid="false" placeholder="First name" value="" type="text" name="fname" /></span>
+</label>
+<label for="last-name" class="label">
+<span class="label__text label__text--required">Last name</span>
+<span class="wpcf7-form-control-wrap" data-name="lname"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input" id="last-name" aria-required="true" aria-invalid="false" placeholder="Last name" value="" type="text" name="lname" /></span>
+</label>
+<label for="email" class="label">
+<span class="label__text label__text--required">Email</span>
+<span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input input--mail" id="email" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="email" /></span>
+</label>
+<label for="phone" class="label">
+<span class="label__text">Phone number</span>
+<span class="wpcf7-form-control-wrap" data-name="phone"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel input input--tel" id="phone" aria-invalid="false" placeholder="Phone number (optional)" value="" type="tel" name="phone" /></span>
+</label>
+</div>
+<label for="add" class="check-label">
+<input type="checkbox" name=" " class="input--checkbox" id="add">
+<span>Add message field</span>
+</label>
+<label class="label">
+<span class="label__inner">
+<span class="label__text">Message</span>
+<span class="label__text label__text--additional">Max. <span>500</span> characters</span>
+</span>
+<span class="wpcf7-form-control-wrap" data-name="textarea"><textarea cols="40" rows="10" maxlength="500" class="wpcf7-form-control wpcf7-textarea input input--textarea" aria-invalid="false" placeholder="Enter your message (optional)" name="textarea"></textarea></span>
+</label>
+<div class="btn__inner">
+<span class="download__reset-btn">Delete a file</span>
+<label class="download__wrapper mobile">
+<span class="download__text">Attach a file</span>
+<span class="wpcf7-form-control-wrap" data-name="file"><input size="40" class="wpcf7-form-control wpcf7-file input--file" accept="audio/*,video/*,image/*" aria-invalid="false" type="file" name="file" /></span>
+</label>
+</div>
+<div class="btn__wrapper">
+<div class="btn__inner">
+<span class="download__reset-btn desktop">Delete a file</span>
+<label class="download__wrapper desktop">
+<span class="download__text">Attach a file</span>
+<span class="wpcf7-form-control-wrap" data-name="file"><input size="40" class="wpcf7-form-control wpcf7-file input--file" accept="audio/*,video/*,image/*" aria-invalid="false" type="file" name="file" /></span>
+</label>
+<div class="btn-secondary__wrapper">
+<a data-contact-us-close class="btn btn--secondary"><span>Close</span></a>
+</div>
+</div>
+
+<input class="wpcf7-form-control has-spinner wpcf7-submit btn btn--primary" type="submit" value="Send" />
+</div><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_2" name="_wpcf7_ak_js" value="18"/><script>document.getElementById( "ak_js_2" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                </div>
+
+            </div>
+        </section>
+        <div class="footer__top">
+            <div class="footer__main-info">
+                                        <div class="footer__logo-wrapper">
+                            <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/header_logo.svg" alt="" class="footer__logo"/>
+                        </div>
+                                                    <p class="footer__logo-caption">Powered by 
+                                                            <a href="https://softengi.com" target="_blank" class="footer__logo-caption-gradient">Softengi</a>
+                                                        </p>
+                                                    <p class="footer__logo-caption">Accelerate productivity with the top-notch Content Services Platform</p>
+                                <div class="footer__socials">
+                    <ul class="footer__socials-list ">
+                                                                            <li class="footer__socials-list-item">
+                                    <a class="footer__socials-list-link" href="mailto:#" target="_self">
+                                                                                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/email-ico.svg" alt="" class="footer__socials-list-icon"/>
+                                                                            </a>
+                                </li>
+                                                                                                    <li class="footer__socials-list-item">
+                                    <a class="footer__socials-list-link" href="#" target="_self">
+                                                                                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Facebook.svg" alt="" class="footer__socials-list-icon"/>
+                                                                            </a>
+                                </li>
+                                                                                                    <li class="footer__socials-list-item">
+                                    <a class="footer__socials-list-link" href="#" target="_self">
+                                                                                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Youtube.svg" alt="" class="footer__socials-list-icon"/>
+                                                                            </a>
+                                </li>
+                                                                                                    <li class="footer__socials-list-item">
+                                    <a class="footer__socials-list-link" href="#" target="_self">
+                                                                                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Twitter.svg" alt="" class="footer__socials-list-icon"/>
+                                                                            </a>
+                                </li>
+                                                                                                    <li class="footer__socials-list-item">
+                                    <a class="footer__socials-list-link" href="#" target="_self">
+                                                                                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/Linkedin.svg" alt="" class="footer__socials-list-icon"/>
+                                                                            </a>
+                                </li>
+                                                                </ul>
+                </div>
+
+            </div>
+            <nav class="footer__links">
+                <ul class="footer__links-list footer__links-list--processes">
+                    <h4 class="footer__links-title">Processes</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#processes" class="footer__links-list-link scroll-link">ECM platform</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#processes" class="footer__links-list-link scroll-link">System interactions</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#processes" class="footer__links-list-link scroll-link">Set of solutions</a>
+                    </li>
+                </ul>
+                <ul class="footer__links-list footer__links-list--capabilities">
+                    <h4 class="footer__links-title">Capabilities</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">Flexible framework</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">Report builder tool</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">Geospatial CMS</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">Custom CMS</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">Authorization service</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">Survey builder tool</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">E-Form builder tool</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#capabilities" class="footer__links-list-link scroll-link">AI tool</a>
+                    </li>
+                </ul>
+                <ul class="footer__links-list footer__links-list--management">
+                    <h4 class="footer__links-title">Management</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#management" class="footer__links-list-link scroll-link">Enterprise content</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#management" class="footer__links-list-link scroll-link">Asset management</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#management" class="footer__links-list-link scroll-link">Records management</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#management" class="footer__links-list-link scroll-link">Human resources</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#management" class="footer__links-list-link scroll-link">Case management</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#management" class="footer__links-list-link scroll-link">Contracts</a>
+                    </li>
+                </ul>
+                <ul class="footer__links-list footer__links-list--solutions">
+                    <h4 class="footer__links-title">Solutions</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#solutions" class="footer__links-list-link scroll-link">Government</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#solutions" class="footer__links-list-link scroll-link">Hazards monitoring</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#solutions" class="footer__links-list-link scroll-link">Healthcare </a>
+                    </li>
+                </ul>
+                <ul class="footer__links-list footer__links-list--benefits">
+                    <h4 class="footer__links-title">Benefits</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#benefits" class="footer__links-list-link scroll-link">Extended security</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#benefits" class="footer__links-list-link scroll-link">Fast development</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#benefits" class="footer__links-list-link scroll-link">Single CMS</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#benefits" class="footer__links-list-link scroll-link">One application</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#benefits" class="footer__links-list-link scroll-link">CMS on Java Script</a>
+                    </li>
+                    <li class="footer__links-list-item">
+                        <a href="#benefits" class="footer__links-list-link scroll-link">Lower price</a>
+                    </li>
+                </ul>
+                <ul class="footer__links-list footer__links-list--testimonials">
+                    <h4 class="footer__links-title">Testimonials</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#testimonials" class="footer__links-list-link scroll-link">What people say</a>
+                    </li>
+                </ul>
+                <ul class="footer__links-list footer__links-list--technology">
+                    <h4 class="footer__links-title">Technology</h4>
+                    <li class="footer__links-list-item">
+                        <a href="#technologies" class="footer__links-list-link scroll-link">Relevant Stack</a>
+                    </li>
+                </ul>
+
+            </nav>
+        </div>
+
+        <div class="footer__bottom">
+                            <p class="footer__rights">© 2023 AGORA - All Rights Reserved </p>
+                                        <div class="footer__dev-logo-wrapper">
+                    <a href="https://softengi.com">
+                        <img loading="lazy" src="https://test.kykilab.com/wp-content/uploads/2022/12/dev_logo.svg" alt="" class="footer__dev-logo"/>
+                    </a>
+                </div>
+                                        <p class="footer__address">Tychy, Poland, 43-100 ul. Fabryczna 45</p>
+                    </div>
+    </footer>
+
+    <div class="popup-contact" data-popup-contact>
+        <div class="popup__header" style="background: #72B8BA url('https://test.kykilab.com/wp-content/themes/agora/images/bg/popup-header.jpg') center center no-repeat">
+            <div class="popup__title-wrapper">
+                <h3 class="popup__title">Contact Us</h3>
+                <img loading="lazy" src="https://test.kykilab.com/wp-content/themes/agora/images/popup_close.svg " data-popup-contact-close alt="" class="popup__btn-close">
+            </div>
+            <p class="popup__caption">You can contact us by sending
+                a message via this pop-up form</p>
+        </div>
+        <div class="contact-us__form-wrapper-popup">
+            <div class="wpcf7 no-js" id="wpcf7-f6-o3" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f6-o3" method="post" class="wpcf7-form init contact-us__form" aria-label="Contact form" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="6" />
+<input type="hidden" name="_wpcf7_version" value="5.7.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-o3" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="contact-us__form-inner">
+<label for="first-name" class="label">
+<span class="label__text label__text--required">First name</span>
+<span class="wpcf7-form-control-wrap" data-name="fname"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input" id="first-name" aria-required="true" aria-invalid="false" placeholder="First name" value="" type="text" name="fname" /></span>
+</label>
+<label for="last-name" class="label">
+<span class="label__text label__text--required">Last name</span>
+<span class="wpcf7-form-control-wrap" data-name="lname"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input" id="last-name" aria-required="true" aria-invalid="false" placeholder="Last name" value="" type="text" name="lname" /></span>
+</label>
+<label for="email" class="label">
+<span class="label__text label__text--required">Email</span>
+<span class="wpcf7-form-control-wrap" data-name="email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input input--mail" id="email" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="email" /></span>
+</label>
+<label for="phone" class="label">
+<span class="label__text">Phone number</span>
+<span class="wpcf7-form-control-wrap" data-name="phone"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel input input--tel" id="phone" aria-invalid="false" placeholder="Phone number (optional)" value="" type="tel" name="phone" /></span>
+</label>
+</div>
+<label for="add" class="check-label">
+<input type="checkbox" name=" " class="input--checkbox" id="add">
+<span>Add message field</span>
+</label>
+<label class="label">
+<span class="label__inner">
+<span class="label__text">Message</span>
+<span class="label__text label__text--additional">Max. <span>500</span> characters</span>
+</span>
+<span class="wpcf7-form-control-wrap" data-name="textarea"><textarea cols="40" rows="10" maxlength="500" class="wpcf7-form-control wpcf7-textarea input input--textarea" aria-invalid="false" placeholder="Enter your message (optional)" name="textarea"></textarea></span>
+</label>
+<div class="btn__inner">
+<span class="download__reset-btn">Delete a file</span>
+<label class="download__wrapper mobile">
+<span class="download__text">Attach a file</span>
+<span class="wpcf7-form-control-wrap" data-name="file"><input size="40" class="wpcf7-form-control wpcf7-file input--file" accept="audio/*,video/*,image/*" aria-invalid="false" type="file" name="file" /></span>
+</label>
+</div>
+<div class="btn__wrapper">
+<div class="btn__inner">
+<span class="download__reset-btn desktop">Delete a file</span>
+<label class="download__wrapper desktop">
+<span class="download__text">Attach a file</span>
+<span class="wpcf7-form-control-wrap" data-name="file"><input size="40" class="wpcf7-form-control wpcf7-file input--file" accept="audio/*,video/*,image/*" aria-invalid="false" type="file" name="file" /></span>
+</label>
+<div class="btn-secondary__wrapper">
+<a data-contact-us-close class="btn btn--secondary"><span>Close</span></a>
+</div>
+</div>
+
+<input class="wpcf7-form-control has-spinner wpcf7-submit btn btn--primary" type="submit" value="Send" />
+</div><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_3" name="_wpcf7_ak_js" value="207"/><script>document.getElementById( "ak_js_3" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>        </div>
+    </div>
+    <div class="overlay"></div>
+    <script type='text/javascript' src='https://test.kykilab.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/test.kykilab.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://test.kykilab.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://test.kykilab.com/wp-content/themes/agora/js/app.min.js' id='appjs-js'></script>
+</body>
+
+</html>
+<!-- Page supported by LiteSpeed Cache 5.3.2 on 2023-06-06 22:14:30 -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: test.kykilab.com @ 2023-06-06 22:14:30 by W3 Total Cache
+-->
